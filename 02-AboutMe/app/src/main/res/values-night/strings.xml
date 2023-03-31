@@ -2,4 +2,6 @@
 <resources>
     <string name="name">Pauló Lajos</string>
     <string name="yellow_star">Yellow star</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
 </resources>
