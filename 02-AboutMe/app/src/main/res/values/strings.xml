@@ -2,4 +2,19 @@
     <string name="app_name">About Me</string>
     <string name="name">Pauló Lajos</string>
     <string name="yellow_star">Yellow star</string>
+    <string name="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce laoreet scelerisque nibh, sed iaculis ipsum sollicitudin at.
+        \nPellentesque fringilla mauris eget nisl hendrerit vulputate. Aenean sagittis scelerisque lacus nec pharetra.
+        \nNulla quis libero id turpis bibendum convallis. Duis lacinia orci libero, a faucibus justo ornare et. Morbi id iaculis libero.
+        \nSed fermentum ante sit amet metus tempus congue.
+        \n\nMauris malesuada porta ipsum. Vestibulum vitae convallis odio, quis pulvinar tortor.
+        \nSed elit quam, molestie eu condimentum ac, fermentum sit amet augue. Aenean pellentesque erat in placerat auctor.
+        \nAliquam viverra libero in porttitor efficitur. Donec ullamcorper augue dignissim leo suscipit suscipit.
+        \nDonec vehicula, lacus ac maximus varius, quam nisi pulvinar elit, vel rutrum justo risus vel purus.
+        \nMauris in nulla finibus, dictum ligula et, aliquet lacus. Cras faucibus, massa non lacinia egestas,
+        \nmassa enim auctor velit, non mollis ligula erat et nibh. Aenean non dolor magna. Donec ac augue egestas, aliquam justo at, elementum dui.
+        \n\nNullam vestibulum molestie libero eu auctor. Etiam id dolor vel libero feugiat cursus eu non nulla.
+        \nDonec elementum ut orci id dapibus. Donec eget placerat neque. Nullam cursus vulputate elit dapibus accumsan.
+        \nEtiam quis dolor dui. Nullam tristique dignissim velit ut egestas.
+        \nPellentesque a orci accumsan, luctus velit eget, lobortis lorem.
+        \n\nNulla facilisi.</string>
 </resources>
